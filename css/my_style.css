@@ -1,16 +1,16 @@
 /*= common css to all effects =*/
 *{margin: 0; padding: 0; box-sizing: border-box;}
 .member_container{margin: 0 0; max-width: 1500px; }
-.single-member{width: 200px; float: left; margin: 30px 2.5%; background-color: #fff; text-align: center; position: relative;}
+.single-member{width: 250px; float: left; margin: 30px 2.5%; background-color: #fff; text-align: center; position: relative;}
 .member-image img{max-width: 100%; vertical-align: middle;}
 p {font-size: 14px; font-weight: 300; line-height: 22px; padding: 0 30px; margin-bottom: 10px;}
 /*= common css to all effects end =*/
 
 /*= effect-2 css =*/
 .effect-2{max-height: 282px; min-height: 282px; overflow: hidden;}
-.effect-2 .member-image{border-bottom: 5px solid #1fb554; height: 200px; overflow: hidden; width: 200px; transition: 0.4s; display: inline-block; float: none; vertical-align: middle;}
+.effect-2 .member-image{border-bottom: 5px solid #1fb554; height: 250px; overflow: hidden; width: 250px; transition: 0.4s; display: inline-block; float: none; vertical-align: middle;}
 .effect-2 .member-info{transition: 0.4s;}
-.effect-2 .member-image img{width: 200px; height: 200px; vertical-align: bottom; object-fit: cover;}
+.effect-2 .member-image img{width: 250px; height: 250px; vertical-align: bottom; object-fit: cover;}
 /*= effect-2 css end =*/
 
 /*= Media Query 
